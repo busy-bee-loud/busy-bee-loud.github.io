@@ -1,2 +1,2 @@
 # busy-bee-loud.github.io
-Fun code projects by Busy Bee™
+Collection of tools built to make every day life easy by Busy Bee™
